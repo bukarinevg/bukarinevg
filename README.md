@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Outside of coding, I enjoy playing  chess  and learning new strategies to dominate opponents.
 
-Projects:
+🔨 Projects:
 
 🌤️ Weather API Backend: A complex system providing real-time weather updates and forecasts utilizing NodeJS and Express.js with MongoDB and Redis for data handling and caching.
 
