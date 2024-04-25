@@ -21,9 +21,13 @@ Here are some ideas to get you started:
 
 Projects:
 
-🌤️ Weather API Backend: A complex system providing real-time weather updates and forecasts utilizing NodeJS and Express.js with MongoDB and Redis for data handling and caching. View Project
-🌤️ Weather Frontend: React-based client application for displaying weather conditions, implemented with modern React hooks and deployed through GitHub Pages. View Project
-🎮 Tic-Tac-Toe Game: A simple yet engaging Tic-Tac-Toe game built with React, allowing two players to compete in a classic turn-based game. View Project
+🌤️ Weather API Backend: A complex system providing real-time weather updates and forecasts utilizing NodeJS and Express.js with MongoDB and Redis for data handling and caching.
+
+🌤️ Weather Frontend: React-based client application for displaying weather conditions, implemented with modern React hooks and deployed through GitHub Pages. 
+
+🎮 Tic-Tac-Toe Game: A simple yet engaging Tic-Tac-Toe game built with React, allowing two players to compete in a classic turn-based game.
+
 📝 Blog REST API: A backend system for managing blog content, using Laravel and MySQL with JWT for authentication. View Repository
+
 🗓️ PHP-Scheduler: A task scheduling application that exemplifies using PHP 8's new features, Docker, and a custom ORM. View Repository
 
