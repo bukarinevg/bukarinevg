@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning: Advanced cloud technologies and exploring deeper into front-end frameworks to enhance user interactions and system efficiency.
 
-👯 I’m looking to collaborate on: Open-source projects centered around web development, particularly those that can benefit from my experience with databases and backend optimizations.
 
 🤔 I’m looking for help with: Mastering cloud architecture and serverless environments to better integrate with my full-stack development skills.
 
