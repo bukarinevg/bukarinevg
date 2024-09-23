@@ -24,5 +24,8 @@
     
     📝 Blog REST API: A backend system for managing blog content, using Laravel and MySQL with JWT for authentication. View Repository
   
-    🗓️ PHP-Scheduler: A task scheduling application that uses PHP 8's new features, Docker, and a custom ORM. View Repository
+    🗓️ PHP-monitoring app. 
+    Rest api with possibility of adding hosts for monitoring.
+    php-8 features , custom mvc framework.
+    View Repository
 
