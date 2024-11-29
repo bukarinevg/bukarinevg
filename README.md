@@ -24,8 +24,5 @@
     
     📝 Blog REST API: A backend system for managing blog content, using Laravel and MySQL with JWT for authentication. View Repository
   
-    🗓️ PHP-monitoring app. 
-    Rest api with possibility of adding hosts for monitoring.
-    php-8 features , custom mvc framework.
-    View Repository
-
+    🗓️ PHP-monitoring app:  Rest API with the possibility of adding hosts for monitoring. php-8 features, custom MVC framework.
+   
