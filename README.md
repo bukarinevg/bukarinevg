@@ -21,8 +21,12 @@
     🌤️ Weather Frontend: React-based client application for displaying weather conditions, implemented with modern React hooks and deployed through GitHub Pages. 
   
     🎮 Tic-Tac-Toe Game: A simple yet engaging Tic-Tac-Toe game built with React, allowing two players to compete in a classic turn-based game.
+
+    🕹️ Bug Killer: A web-based game created with Phaser and TypeScript.
     
     📝 Blog REST API: A backend system for managing blog content, using Laravel and MySQL with JWT for authentication. View Repository
   
     🗓️ PHP-monitoring app:  Rest API with the possibility of adding hosts for monitoring. php-8 features, custom MVC framework.
+
+    
    
