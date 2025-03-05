@@ -8,7 +8,7 @@
 
 💬 Ask me about -  Anything related to PHP, JavaScript, TypeScript, optimizing SQL queries, setting up efficient CI/CD pipelines, or managing complex database systems. I’m also a keen practitioner of Agile and Kanban methodologies.
 
-📫 How to reach me: https://www.linkedin.com/in/eugenebukarin/, https://t.me/eeuggene, bukarinevgeni@gmail.com.
+📫 How to reach me: https://www.linkedin.com/in/eugenebukarin/, bukarinevgeni@gmail.com.
 
 ⚡ Fun fact: Outside of coding, I enjoy playing  chess  and learning new strategies to dominate opponents.
 
