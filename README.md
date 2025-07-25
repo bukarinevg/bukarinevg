@@ -1,32 +1,38 @@
-### Hi there 👋
+## 🚀 Backend & Full-Stack Developer | PHP · Python · JS/TS · Docker · Microservices · Cloud
 
+👋 Hi, I'm Evgenii!  
+I'm a passionate developer with deep hands-on experience in building scalable web applications and services — from robust backend APIs to complete full-stack solutions.
 
-🌱 I’m currently learning: Advanced cloud technologies and exploring deeper into front-end frameworks to enhance user interactions and system efficiency.
+**Main Stack:**  
+PHP (Laravel), Python (FastAPI, Pandas), JavaScript/TypeScript (React, Node.js), SQL, Docker, RabbitMQ, Redis
 
+---
 
-🤔 I’m looking for help with: Mastering cloud architecture and serverless environments to better integrate with my full-stack development skills.
+### 🔭 Focus Areas
+- Microservices architecture & cloud platforms (AWS, Docker, Kubernetes)
+- Scalable backend development with PHP, Python/FastAPI, Node.js
+- Data processing & automation with Python (Pandas)
+- CI/CD, DevOps, and infrastructure as code
+- Service decomposition & message-driven communication
 
-💬 Ask me about -  Anything related to PHP, JavaScript, TypeScript, optimizing SQL queries, setting up efficient CI/CD pipelines, or managing complex database systems. I’m also a keen practitioner of Agile and Kanban methodologies.
+---
 
-📫 How to reach me: bukarinevgeni@gmail.com.
+### 💡 Key Skills
+- Designing and building high-performance RESTful APIs (PHP, Python/FastAPI, Node.js)
+- Advanced data analytics & automation with Python (Pandas)
+- Expertise in message brokers: RabbitMQ, Redis
+- Strong experience with containerization (Docker) & DevOps (Ansible, CI/CD)
+- Refactoring and modernizing legacy codebases
+- Frontend development with React & TypeScript
 
-⚡ Fun fact: Outside of coding, I enjoy playing  chess  and learning new strategies to dominate opponents.
+---
 
-🔨 Projects:
+### 🎯 Growth Mindset
+- Modern backend & microservices
+- Cloud-native and data-driven applications
+- Clean code, automation, and sharing knowledge
 
-    💬 Life-time chat application: This lifetime chat application allows you to create rooms with multiple users. Created with Next.js, TypeScript, PostgreSQL for data, AWS S3 for images, and deployed to Vercel.
+---
 
-    🌤️ Weather API Backend: A complex system providing real-time weather updates and forecasts utilizing NodeJS and Express.js with MongoDB and Redis for data handling and caching.
-  
-    🌤️ Weather Frontend: React-based client application for displaying weather conditions, implemented with modern React hooks and deployed through GitHub Pages. 
-  
-    🎮 Tic-Tac-Toe Game: A simple yet engaging Tic-Tac-Toe game built with React, allowing two players to compete in a classic turn-based game.
-
-    🕹️ Bug Killer: A web-based game created with Phaser and TypeScript.
-    
-    📝 Blog REST API: A backend system for managing blog content, using Laravel and MySQL with JWT for authentication. View Repository
-  
-    🗓️ PHP-monitoring app:  Rest API with the possibility of adding hosts for monitoring. php-8 features, custom MVC framework.
-
-    
-   
+💬 Always open for innovative projects, tech discussions, and collaboration!  
+🌍 [LinkedIn](#) | [Telegram](#)
