@@ -1,4 +1,4 @@
-## 🚀 Backend & Full-Stack Developer | PHP · Python · JS/TS · Docker · Microservices · Cloud
+## 🚀 Backend & Full-Stack Developer | PHP · Python · JS/TS · SQL · Docker · Microservices · Cloud
 
 👋 Hi, I'm Evgenii!  
 I'm a passionate developer with deep hands-on experience in building scalable web applications and services — from robust backend APIs to complete full-stack solutions.
@@ -35,4 +35,3 @@ PHP (Laravel), Python (FastAPI, Pandas), JavaScript/TypeScript (React, Node.js),
 ---
 
 💬 Always open for innovative projects, tech discussions, and collaboration!  
-🌍 [LinkedIn](#) | [Telegram](#)
